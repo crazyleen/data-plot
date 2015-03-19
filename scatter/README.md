@@ -1,3 +1,3 @@
 # 散点图
 
- ![image](https://github.com/crazyleen/data-plot/scatter/scatter.png)
+ ![scatter](https://github.com/crazyleen/data-plot/blob/master/scatter/scatter.png)
